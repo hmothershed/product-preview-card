@@ -3,11 +3,13 @@
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
 ### Screenshot
+![Screenshot 2024-12-19 142534](https://github.com/user-attachments/assets/ea964cbd-fb5c-4882-9162-0961a41602dd)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+[Solution URL](https://github.com/hmothershed/product-preview-card)
+<br>
+[Live Site URL](https://hmothershed.github.io/product-preview-card/)
 
 ### Built with
 

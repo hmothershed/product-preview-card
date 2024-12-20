@@ -10,7 +10,7 @@
     --white: hsl(0, 0%, 100%);
     /* fonts */
     --fraunces: 'Fraunces', sans-serif; /* 700 */
-    --montserrat: 'Monterrat', sans-serif;  /* 500, 700 */
+    --montserrat: 'Montserrat', sans-serif;  /* 500, 700 */
 }
 
 * {
